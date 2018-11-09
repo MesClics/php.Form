@@ -15,4 +15,12 @@ class DataTransport{
             $this->files = $files;
         }
     }
+
+    public function getFiles(){
+        return $this->files;
+    }
+
+    public function getPost(){
+        return $this->post;
+    }
 }
