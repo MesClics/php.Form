@@ -1,0 +1,11 @@
+{
+    "name": "mesclics/php.form",
+    "description": "my own php library to manage forms",
+    "authors": [
+        {
+            "name": "MesClics",
+            "email": "contact@mesclics.fr"
+        }
+    ],
+    "require": {}
+}
