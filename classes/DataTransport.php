@@ -1,7 +1,8 @@
 <?php
+namespace MesClics\Form\classes;
 class DataTransport{
-    private $post;
-    private $files;
+    protected $post;
+    protected $files;
 
     public function __construct(Array $post, Array $files = null){
         //securiser tous les éléments saisis par le visiteur
